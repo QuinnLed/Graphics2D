@@ -1,0 +1,22 @@
+G:\My Drive\Grade 12\Semester 1\Coding\Graphics2D\Graphics2D\bin\Debug\Graphics2D.exe.config
+G:\My Drive\Grade 12\Semester 1\Coding\Graphics2D\Graphics2D\bin\Debug\Graphics2D.exe
+G:\My Drive\Grade 12\Semester 1\Coding\Graphics2D\Graphics2D\bin\Debug\Graphics2D.pdb
+G:\My Drive\Grade 12\Semester 1\Coding\Graphics2D\Graphics2D\obj\Debug\Graphics2D.csprojAssemblyReference.cache
+G:\My Drive\Grade 12\Semester 1\Coding\Graphics2D\Graphics2D\obj\Debug\Graphics2D.Form1.resources
+G:\My Drive\Grade 12\Semester 1\Coding\Graphics2D\Graphics2D\obj\Debug\Graphics2D.Properties.Resources.resources
+G:\My Drive\Grade 12\Semester 1\Coding\Graphics2D\Graphics2D\obj\Debug\Graphics2D.csproj.GenerateResource.cache
+G:\My Drive\Grade 12\Semester 1\Coding\Graphics2D\Graphics2D\obj\Debug\Graphics2D.csproj.CoreCompileInputs.cache
+G:\My Drive\Grade 12\Semester 1\Coding\Graphics2D\Graphics2D\obj\Debug\Graphics2D.exe
+G:\My Drive\Grade 12\Semester 1\Coding\Graphics2D\Graphics2D\obj\Debug\Graphics2D.pdb
+C:\Users\Admin\Desktop\Graphics2D\Graphics2D\bin\Debug\Graphics2D.exe.config
+C:\Users\Admin\Desktop\Graphics2D\Graphics2D\bin\Debug\Graphics2D.exe
+C:\Users\Admin\Desktop\Graphics2D\Graphics2D\bin\Debug\Graphics2D.pdb
+C:\Users\Admin\Desktop\Graphics2D\Graphics2D\obj\Debug\Graphics2D.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Graphics2D\Graphics2D\obj\Debug\Graphics2D.Form1.resources
+C:\Users\Admin\Desktop\Graphics2D\Graphics2D\obj\Debug\Graphics2D.Properties.Resources.resources
+C:\Users\Admin\Desktop\Graphics2D\Graphics2D\obj\Debug\Graphics2D.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Graphics2D\Graphics2D\obj\Debug\Graphics2D.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Graphics2D\Graphics2D\obj\Debug\Graphics2D.exe
+C:\Users\Admin\Desktop\Graphics2D\Graphics2D\obj\Debug\Graphics2D.pdb
+C:\Users\Admin\Desktop\Graphics2D\Graphics2D\bin\Debug\irrKlang.NET4.dll
+C:\Users\Admin\Desktop\Graphics2D\Graphics2D\obj\Debug\Graphics2D.csproj.CopyComplete
