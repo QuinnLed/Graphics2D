@@ -13,6 +13,7 @@ namespace Graphics2D
 {
     public partial class Form1 : Form
     {
+        //Can I get a wayo
         // Creating variables
         List<Ball2D> balls = new List<Ball2D>() { null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null };
         List<Line2D> lines = new List<Line2D>();
